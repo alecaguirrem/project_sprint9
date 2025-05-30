@@ -1,2 +1,2 @@
-# ´Project Sprint 9
+# Project Sprint 9
 Machine learning models 
